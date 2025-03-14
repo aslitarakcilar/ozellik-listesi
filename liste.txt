@@ -3,3 +3,4 @@ Mesajlasma
 Grup sohbeti
 Sesli arama
 Durum paylasma
+Goruntulu konusma
