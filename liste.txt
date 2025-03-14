@@ -1,6 +1,6 @@
 WhatsApp
-Mesajlasma
-Grup sohbeti
 Sesli arama
+Grup sohbeti
+Mesajlasma
 Durum paylasma
 Goruntulu konusma
